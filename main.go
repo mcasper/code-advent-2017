@@ -36,6 +36,8 @@ func main() {
 			challenge.DayTwo()
 		} else if day == 3 {
 			challenge.DayThree()
+		} else if day == 4 {
+			challenge.DayFour()
 		} else {
 			fmt.Println("Haven't gotten this far!")
 			return
